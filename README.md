@@ -1,2 +1,3 @@
-# html_css-EscolaVirtual
-Criação de site através do curso de HTML Básico pela Fundação Bradesco
+# HTML e CSS - Fundação Bradesco EscolaVirtual
+
+## Criação de site através do curso de HTML e CSS na prática pela Fundação Bradesco.
